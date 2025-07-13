@@ -8,6 +8,7 @@ Some exercises under jupyter enviroment
 > - turtle_exercises/
 
 #### 《趣学贝叶斯统计：橡皮鸭、乐高和星球大战中的统计学》
+*"BAYESIAN STATISTICS THE FUN WAY"*
 > - R_exercises.ipynb 
 
 ## 在jupyter notebook中使用R语言
