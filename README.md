@@ -7,6 +7,9 @@ Some exercises under jupyter enviroment
 >
 > - turtle_exercises/
 
+#### 《大数据数学基础（Python语言描述）》
+> - python_math_fundamental.ipynb
+
 #### 《趣学贝叶斯统计：橡皮鸭、乐高和星球大战中的统计学》
 *"BAYESIAN STATISTICS THE FUN WAY"*
 > - R_exercises.ipynb 
