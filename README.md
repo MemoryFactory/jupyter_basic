@@ -14,6 +14,9 @@ Some exercises under jupyter enviroment
 *"BAYESIAN STATISTICS THE FUN WAY"*
 > - R_exercises.ipynb 
 
+#### 《GPT图解 大模型是怎样构成的》
+> - GPT_illustrated.ipynb
+
 ---
 
 ## 在jupyter notebook中使用R语言
