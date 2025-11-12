@@ -17,6 +17,9 @@ Some exercises under jupyter enviroment
 #### 《GPT图解 大模型是怎样构成的》
 > - GPT_illustrated.ipynb
 
+#### 《零基础学机器学习》
+> - zero_ml.ipynb
+
 ---
 
 ## 在jupyter notebook中使用R语言
